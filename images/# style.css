@@ -1,0 +1,30 @@
+h1{
+    color: #04e722;
+    text-align: center;
+    font-size: 70px;
+}
+
+img{
+    border: 5px solid #d31515;
+    border-radius: 20px;
+}
+
+#box1 {
+    border: 5px solid #ccf306;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 70px;
+    color: rgb(129, 173, 223);
+    font-style: oblique;
+    width: 70%;
+}
+
+.uuu{
+    color: #0e062b;
+    text-align: center;
+    font-size: 50px;
+}
+
+body{
+    background-color: rgb(243, 72, 10);
+}
